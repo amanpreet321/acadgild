@@ -1,0 +1,17 @@
+1) Type casting means	
+	b)Converting one data type into other
+2) Global variable can be denoted with 
+	c)$
+3) If @ is the starting letter of a variable that will be denoted as
+	c) Instance Variable
+4) Def,end Keywords can be used in
+	b) Method
+5) The Super class of all class in Ruby is
+	b) Module
+Note :Although 
+> Class.superclass
+=> Module
+> Class.superclass.class
+=> Class
+> Class.superclass.class.superclass
+=> Module
